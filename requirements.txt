@@ -1,8 +1,6 @@
-tensorflow==2.15.0
-pandas 
+tensorflow==2.21.0
+keras==3.12.1
+pandas
 numpy
-scikit-learn==1.7.2
-tensorboard
-matplotlib
+scikit-learn
 streamlit
-
